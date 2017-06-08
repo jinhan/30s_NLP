@@ -9,3 +9,5 @@
  - Feel free to download and use!
  
  - Our material was from http://nltk.org/book
+ 
+ ![TREE](https://github.com/jinhan/30s_NLP/blob/master/Chapter_9(20170518)/images/52.PNG)
